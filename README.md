@@ -25,7 +25,7 @@ Create a Github account and make your first commit
 - [x] Fork this repository [learn-git-milestones](https://github.com/omundy/learn-git-milestones) (click the Fork button, top right).
 - [x] Edit the README file (click the pencil icon) and add your favorite emoji here: **🙃**
 - [x] Replace the space in the `[ ]` preceding each of the lines you complete with an x so they look like `[x]` 
-- [ ] Commit changes to the README file directly to the master branch with the message `commit #1 from Github.com`
+- [x] Commit changes to the README file directly to the master branch with the message `commit #1 from Github.com`
 - [ ] View the commit history and confirm your edits
 
 
