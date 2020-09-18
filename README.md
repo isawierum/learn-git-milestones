@@ -77,7 +77,7 @@ You should have a basic familiarity with the command line in case you need to do
   - [x] List files in this directory: `ls`
   - [x] List files in this directory, including hidden: `ls -la`  
   - [x] Confirm the existence of the `.git` directory (where Git versions and config are stored)
-  - [ ] View your current directory and copy the full path: `pwd`
+  - [x] View your current directory and copy the full path: `pwd`
   - [x] Open this README file in Atom and paste that path here: **/Users/Isa/Desktop/critical-web-design/learn-git-milestones**
 - [ ] Use Git on the CLI
   - [x] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
@@ -99,9 +99,9 @@ You should be able to ...
 
 ![atom-git-menu](img/atom-git-menu.png)
 
-- [ ] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
-- [ ] Double click on each file with changes to stage them  
-- [ ] Commit your changes directly to the master branch with the message `commit #4 from Atom`
+- [x] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
+- [x] Double click on each file with changes to stage them  
+- [x] Commit your changes directly to the master branch with the message `commit #4 from Atom`
 
 
 
@@ -109,10 +109,10 @@ You should be able to ...
 ## Create a repository
 
 - [ ] Create a repository from scratch
-  - [ ] In Github Desktop, create a new repository ...
-  - [ ] Name: `my-awesome-website`
-  - [ ] Local Path: Click "Choose" and create a new folder `my-awesome-website` inside the `critical-web-design` folder you made above
-  - [ ] Click Create Repository
+  - [x] In Github Desktop, create a new repository ...
+  - [x] Name: `my-awesome-website`
+  - [x] Local Path: Click "Choose" and create a new folder `my-awesome-website` inside the `critical-web-design` folder you made above
+  - [x] Click Create Repository
   - [ ] This should now be your class folder's directory structure.
   ```
   critical-web-design
@@ -120,27 +120,27 @@ You should be able to ...
     |-- learn-git-milestones
   ```
   - [ ] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-website` project folder into Atom)
-  - [ ] Add a README file: `README.md`
-  - [ ] In the README write your name and the date
-  - [ ] Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-  - [ ] Create a file called `index.html` in your repo and add some html
+  - [x] Add a README file: `README.md`
+  - [x] In the README write your name and the date
+  - [x] Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  - [x] Create a file called `index.html` in your repo and add some html
 
 
 ## Turn in Assignments
 Now that we have basic Git commands out of the way use Git to create and turn in your DIG 245 assignment ...
 
 
-- [ ] Complete Assignment 1
-  - [ ] Follow the instructions in [https://github.com/omundy/dig245-a1/](https://github.com/omundy/dig245-a1/)
-  - [ ] Test your file in a web browser
-  - [ ] Commit and push the files to Github
-- [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
-  - [ ] Go to the settings page for your repo on Githu.com and scroll aaaaallllll the way down to the Github Pages section
-  - [ ] Select the master branch source and click save
-  - [ ] Do not use a theme. Start from scratch
-  - [ ] Visit your project site at http://*username*.github.io/dig245-a1
-  - [ ] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
-  - [ ] Paste this link into the appropriate Moodle forum
+- [x] Complete Assignment 1
+  - [x] Follow the instructions in [https://github.com/omundy/dig245-a1/](https://github.com/omundy/dig245-a1/)
+  - [x] Test your file in a web browser
+  - [x] Commit and push the files to Github
+- [x] Set up a [Github page](https://pages.github.com/) "project site" for your repo
+  - [x] Go to the settings page for your repo on Githu.com and scroll aaaaallllll the way down to the Github Pages section
+  - [x] Select the master branch source and click save
+  - [x] Do not use a theme. Start from scratch
+  - [x] Visit your project site at http://*username*.github.io/dig245-a1
+  - [x] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
+  - [x] Paste this link into the appropriate Moodle forum
 
 
 ## Git Fluency
